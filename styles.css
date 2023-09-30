@@ -1,0 +1,8 @@
+
+  .inner-grid {
+    display: flex;
+    justify-content: space-between;
+  }
+  .box-padding {
+    padding: 1rem;
+  }
